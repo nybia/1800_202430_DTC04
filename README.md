@@ -6,8 +6,8 @@ This browser based web application to ...
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-* ...
-* Good morning fam, My name is bardia and happy to work with you guys and I will be your master lol
+* oen lien untroduction from aibyn here hello
+* Good morning fam, My name is bardia and happy to work with you guys and I will be your master lolditdadasdasds
 * ...
 	
 ## 3. Technologies and Resources Used
@@ -57,5 +57,6 @@ It has the following subfolders and files:
 
 
 ```
-
+## hello
+my name is Aibyn and this is a random sentence i came up with
 
