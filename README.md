@@ -6,8 +6,8 @@ This browser based web application to ...
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-* ...
-* ...
+* oen lien untroduction from aibyn here hello
+* ...dit
 * ...
 	
 ## 3. Technologies and Resources Used
@@ -57,5 +57,6 @@ It has the following subfolders and files:
 
 
 ```
-
+## hello
+my name is Aibyn and this is a random sentence i came up with
 
