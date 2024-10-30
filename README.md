@@ -6,10 +6,10 @@ This browser based web application to ...
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-* oen lien untroduction from aibyn here hello
-* Good morning fam, My name is bardia and happy to work with you guys and I will be your master lolditdadasdasds
-* asdf creating conflict hahaha
-* Heeeello everyone! Adam here! Welcome back to another GitHub assignment! Today we will be looking at how to merge GitHub conflicts.
+* ...
+* ...
+* ...
+	
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
 * HTML, CSS, JavaScript
@@ -39,7 +39,6 @@ What we'd like to build in the future:
 ## 7. Contents of Folder
 Content of the project folder:
 
-
 ```
  Top level of project folder: 
 ├── .gitignore               # Git ignore file
@@ -58,5 +57,5 @@ It has the following subfolders and files:
 
 
 ```
-## hello.
-my name is Aibyn and this is a random sentence i came up with
+
+
